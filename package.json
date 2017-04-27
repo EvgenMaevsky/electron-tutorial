@@ -18,6 +18,9 @@
   ],
   "author": "EugenMaevsky",
   "license": "MIT",
+  "decDependencies": {
+    "electron": "^1.6.6"
+  },
   "bugs": {
     "url": "https://github.com/EvgenMaevsky/electron-tutorial/issues"
   },
