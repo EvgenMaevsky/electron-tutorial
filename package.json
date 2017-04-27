@@ -1,0 +1,25 @@
+{
+  "name": "electron-start",
+  "version": "0.1.0",
+  "description": "My first Electron.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenMaevsky/electron-tutorial.git"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "javascript",
+    "tutorial"
+  ],
+  "author": "EugenMaevsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvgenMaevsky/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/EvgenMaevsky/electron-tutorial#readme"
+}
